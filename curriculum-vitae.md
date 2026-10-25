@@ -23,6 +23,16 @@ Baylor University | 2017
 
 <br>
 
+# Technological Competencies
+
+| Python | HTML | MySQL | CSS | Docker | React | REST | API |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Java | COBOL | Fortran | Node.js | Figma | Django | Vite | JavaScript |
+| Git | Gatling | Scala | Spring MVC | PL/I | Tailwind CSS | HTTP | TypeScript | 
+| PostgreSQL | C++ | MongoDB | 
+
+<br>
+
 # Career Highlights
 
 ### **Managing Director | Kriss Kross Skatium Synergy Ltd. | 2024 - Present**
