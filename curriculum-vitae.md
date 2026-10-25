@@ -33,7 +33,7 @@ I lead Kriss Kross’ strategic direction, finances, teams, and daily operations
 
 Designed the primary performance tests for the 2022 Kenyan elections, validating service integrity and simulating high-volume ballot validation, accounting, and results transmission. Analysed test outcomes to identify performance bottlenecks and operational risks, recommending targeted improvements.
 
-### **Software Defveloper | DXC Technology | 2018 - 2019**
+### **Software Developer | DXC Technology | 2018 - 2019**
 Maintained and enhanced mission-critical software supporting General Dynamics Electric Boat’s nuclear submarine production. Contributed to modernisation efforts bridging legacy Fortran systems with Java-based user interfaces, preserving system reliability while improving functionality and accessibility.
 
 <br>
