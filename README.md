@@ -56,6 +56,13 @@ Maintained and enhanced mission-critical software supporting General Dynamics El
 
 <br>
 
+### [Building a Digital Home for Ogbemi Heymann (2026)](/case-studies/ogbemi-heymann/Building%20a%20Digital%20Home%20for%20Ogbemi%20Heymann.md)
+
+[![Ogbemi Heymann's Home Page](/case-studies/ogbemi-heymann/assets/home-page.png)](/case-studies/ogbemi-heymann/Building%20a%20Digital%20Home%20for%20Ogbemi%20Heymann.md)
+
+<br>
+<br>
+
 # Contact Me
 
 - **Email**: oyinda.olatunde@gmail.com
